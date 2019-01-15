@@ -8,3 +8,4 @@ Blackjack Game. So far it has 2 versions
 - has a bot player (writting "BOT" in players name that plays according to strategic charts for any number decks except 3
 - when bot player is playing with 3 decks, implements a formula based on the probability of his hand bursting
 - gives final statistics with graphs
+- added sleep function, so that lines are printed slower so that it is easier for the player to read and keep track of the game
