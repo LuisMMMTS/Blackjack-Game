@@ -1,7 +1,7 @@
 # Blackjack-Game
 Blackjack Game. So far it has 2 versions
 
- V2.0\n
+# V2.0
 -allows a shoe with multiple decks (defined by user input)
 -only requires a single file containing the 52 cards of one deck, and only reshuffles the shoe when 2/3 of the cards have been played(as its done in casinos)
 -allows splitting (only once) and doubling as possible plays (according to blackjack rules)
